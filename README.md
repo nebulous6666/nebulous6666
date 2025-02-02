@@ -15,4 +15,4 @@
 ![评级](https://img.shields.io/badge/评级-B%2B-green)
 
 ## 👀 主页访问量
-![访客统计](https://visitor-badge.glitch.me/badge?page_id=nebulou6666.nebulous6666)
+![访客统计](https://visitor-badge.glitch.me/badge?page_id=nebulous6666.nebulous6666)
